@@ -3,7 +3,7 @@
 After logging in a message and a list appear. Those two divs are React Components (view home.blade.php) <br/>
 React code in resources/assets/js
 
-# Here is an examples:
+# Here is an example:
 ![alt text](https://raw.githubusercontent.com/leartgjoni/laravel-react-component/master/demo/example.png)
 
 # How to run the app
